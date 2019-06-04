@@ -1,0 +1,11 @@
+title: Qwerty.re software
+description: "Magento, Symfony, WordPress"
+show_downloads: false
+theme: jekyll-theme-cayman
+
+github:
+  repository_url: https://github.com/qwerty-re
+  is_project_page: true
+
+plugins:
+  - jemoji
